@@ -1,0 +1,6 @@
+N:\Chernyavskiy\Year 2\Prog\lab01y2\lab01y2\bin\Debug\lab01y2.exe.config
+N:\Chernyavskiy\Year 2\Prog\lab01y2\lab01y2\bin\Debug\lab01y2.exe
+N:\Chernyavskiy\Year 2\Prog\lab01y2\lab01y2\bin\Debug\lab01y2.pdb
+N:\Chernyavskiy\Year 2\Prog\lab01y2\lab01y2\obj\Debug\lab01y2.csprojResolveAssemblyReference.cache
+N:\Chernyavskiy\Year 2\Prog\lab01y2\lab01y2\obj\Debug\lab01y2.exe
+N:\Chernyavskiy\Year 2\Prog\lab01y2\lab01y2\obj\Debug\lab01y2.pdb
