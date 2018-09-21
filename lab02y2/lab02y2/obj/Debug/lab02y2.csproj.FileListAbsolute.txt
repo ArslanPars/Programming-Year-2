@@ -1,0 +1,7 @@
+E:\Руслан\Учеба\Програмування\2 год\lab02y2\lab02y2\bin\Debug\lab02y2.exe.config
+E:\Руслан\Учеба\Програмування\2 год\lab02y2\lab02y2\bin\Debug\lab02y2.exe
+E:\Руслан\Учеба\Програмування\2 год\lab02y2\lab02y2\bin\Debug\lab02y2.pdb
+E:\Руслан\Учеба\Програмування\2 год\lab02y2\lab02y2\obj\Debug\lab02y2.csprojAssemblyReference.cache
+E:\Руслан\Учеба\Програмування\2 год\lab02y2\lab02y2\obj\Debug\lab02y2.csproj.CoreCompileInputs.cache
+E:\Руслан\Учеба\Програмування\2 год\lab02y2\lab02y2\obj\Debug\lab02y2.exe
+E:\Руслан\Учеба\Програмування\2 год\lab02y2\lab02y2\obj\Debug\lab02y2.pdb
