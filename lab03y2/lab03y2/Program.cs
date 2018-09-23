@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Math.Pow(Math.Cos((2*x + 2*(5*x)+9)/0.666), 3)+ Math.Pow(5*x, 7)
+
 namespace lab03y2
 {
     class Program
