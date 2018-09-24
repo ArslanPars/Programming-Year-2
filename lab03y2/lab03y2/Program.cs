@@ -35,7 +35,7 @@ namespace lab03y2
                 x2 = x1 + dx;
                 y1 = Function(x1);
                 y2 = Function(x2);
-                Intgrl += (y1 + y2) / 2 * dx;
+                Intgrl += y1 / 2 * dx;
             }
             Console.WriteLine("Iнтеграл функцiї на вiдрiзку [{0}, {1}] становить {2:0.0000}", a, b, Intgrl);
             Console.Write("Повторити розрахунок (O - так) ? ");
