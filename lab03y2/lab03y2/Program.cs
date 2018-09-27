@@ -26,18 +26,19 @@ namespace lab03y2
             string sn = Console.ReadLine();
             double n = double.Parse(sn);
             double dx = (b - a) / n;
-            double x1, x2;
-            double y1, y2;
-            double Intgrl = 0;
+            double x1, x2, y1, y2;
+            double IntgrlL = 0;
+            double IntgrlR = 0;
             for (int i = 0; i < n; i++)
             {
                 x1 = a + i * dx;
                 x2 = x1 + dx;
                 y1 = Function(x1);
                 y2 = Function(x2);
-                Intgrl += y1 / 2 * dx;
+                IntgrlL += y1 * dx;
+                IntgrlR += y2 * dx;
             }
-            Console.WriteLine("Iнтеграл функцiї на вiдрiзку [{0}, {1}] становить {2:0.0000}", a, b, Intgrl);
+            Console.WriteLine("Iнтеграл функцiї на вiдрiзку [{0}, {1}] становить: \n Методом лівих прямокутників {2:0.0000}\n Методом правих прямокутників {3:0.0000}", a, b, IntgrlL, IntgrlR);
             Console.Write("Повторити розрахунок (O - так) ? ");
             ConsoleKeyInfo pressedKey = Console.ReadKey();
             Console.WriteLine();
