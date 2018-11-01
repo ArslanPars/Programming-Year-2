@@ -1,0 +1,6 @@
+N:\Chernyavskiy\Year 2\Prog\KR\KR\bin\Debug\KR.exe.config
+N:\Chernyavskiy\Year 2\Prog\KR\KR\obj\Debug\KR.csprojResolveAssemblyReference.cache
+N:\Chernyavskiy\Year 2\Prog\KR\KR\bin\Debug\KR.exe
+N:\Chernyavskiy\Year 2\Prog\KR\KR\bin\Debug\KR.pdb
+N:\Chernyavskiy\Year 2\Prog\KR\KR\obj\Debug\KR.exe
+N:\Chernyavskiy\Year 2\Prog\KR\KR\obj\Debug\KR.pdb
