@@ -1,0 +1,9 @@
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\bin\Debug\TestLab7.exe.config
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\bin\Debug\TestLab7.exe
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\bin\Debug\TestLab7.pdb
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.csprojResolveAssemblyReference.cache
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.Properties.Resources.resources
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.csproj.GenerateResource.Cache
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.exe
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.pdb
+N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.fMain.resources
