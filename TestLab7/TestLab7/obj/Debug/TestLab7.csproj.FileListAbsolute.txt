@@ -7,3 +7,13 @@ N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.csproj.Generate
 N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.exe
 N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.pdb
 N:\Chernyavskiy\Year 2\Prog\TestLab7\TestLab7\obj\Debug\TestLab7.fMain.resources
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\bin\Debug\TestLab7.exe.config
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\bin\Debug\TestLab7.exe
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\bin\Debug\TestLab7.pdb
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\obj\Debug\TestLab7.csprojAssemblyReference.cache
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\obj\Debug\TestLab7.fMain.resources
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\obj\Debug\TestLab7.Properties.Resources.resources
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\obj\Debug\TestLab7.csproj.GenerateResource.cache
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\obj\Debug\TestLab7.csproj.CoreCompileInputs.cache
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\obj\Debug\TestLab7.exe
+E:\Руслан\Учеба\Програмування\2 год\TestLab7\TestLab7\obj\Debug\TestLab7.pdb
