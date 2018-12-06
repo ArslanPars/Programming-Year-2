@@ -44,6 +44,8 @@
             this.btnCalc = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
+            this.tbs = new System.Windows.Forms.TextBox();
+            this.sum = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.gv)).BeginInit();
             this.SuspendLayout();
             // 
@@ -131,7 +133,6 @@
             this.tbx1min.Name = "tbx1min";
             this.tbx1min.Size = new System.Drawing.Size(96, 28);
             this.tbx1min.TabIndex = 7;
-            this.tbx1min.TextChanged += new System.EventHandler(this.tbx1min_TextChanged);
             // 
             // tbdx2
             // 
@@ -207,12 +208,32 @@
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
+            // tbs
+            // 
+            this.tbs.Location = new System.Drawing.Point(605, 26);
+            this.tbs.Name = "tbs";
+            this.tbs.Size = new System.Drawing.Size(91, 28);
+            this.tbs.TabIndex = 16;
+            // 
+            // sum
+            // 
+            this.sum.AutoSize = true;
+            this.sum.Font = new System.Drawing.Font("Harlow Solid Italic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sum.Location = new System.Drawing.Point(554, 29);
+            this.sum.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.sum.Name = "sum";
+            this.sum.Size = new System.Drawing.Size(43, 20);
+            this.sum.TabIndex = 17;
+            this.sum.Text = "Sum";
+            // 
             // fMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(734, 395);
+            this.Controls.Add(this.sum);
+            this.Controls.Add(this.tbs);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnCalc);
@@ -259,6 +280,8 @@
         private System.Windows.Forms.Button btnCalc;
         private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.TextBox tbs;
+        private System.Windows.Forms.Label sum;
     }
 }
 

@@ -63,7 +63,7 @@ namespace lab09y2
             {
                 string err = string.Format("Erroe X1max {0}", ex.Message);
                 MessageBox.Show(err, "Converison error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                tbx1max.Text = tbx1max.Text.Remove(tbx1max.Text.Length - 12);
+                tbx1max.Text = tbx1max.Text.Remove(tbx1max.Text.Length - tbx1max.Text.Length);
             }
             try
             {
@@ -112,6 +112,24 @@ namespace lab09y2
                 }
                 x1 += dx1;
                 rw++;
+                double Mxi = 0;
+
+
+                for (int i = 0; i < gv.RowCount; i++)
+                {
+                    for (int j = 0; j < gv.ColumnCount; j++)
+                    {
+                        try
+                        {
+                            double Mxi1 = Convert.ToDouble(gv.Rows[i].Cells[j].Value);
+                            if (Mxi1 < 0)
+                                Mxi = Mxi1 + Mxi;
+                        }
+                        catch { }
+                    }
+                }
+
+                tbs.Text = Convert.ToString(Mxi);
             }
         }
 
@@ -123,6 +141,7 @@ namespace lab09y2
             tbx2max.Text = "";
             tbdx1.Text = "";
             tbdx2.Text = "";
+            tbs.Text = "";
             gv.Rows.Clear();
             for (int Cl = 0; Cl < gv.ColumnCount; Cl++)
                 gv.Columns[Cl].HeaderCell.Value = "";
@@ -132,11 +151,6 @@ namespace lab09y2
         {
             if (MessageBox.Show("Закрити програму?", "Вихід з програми", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
                 Application.Exit();
-        }
-
-        private void tbx1min_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
