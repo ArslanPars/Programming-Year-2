@@ -1,0 +1,10 @@
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\bin\Debug\lab11y2.exe.config
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\bin\Debug\lab11y2.exe
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\bin\Debug\lab11y2.pdb
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\obj\Debug\lab11y2.csprojAssemblyReference.cache
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\obj\Debug\lab11y2.Lab11.resources
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\obj\Debug\lab11y2.Properties.Resources.resources
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\obj\Debug\lab11y2.csproj.GenerateResource.cache
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\obj\Debug\lab11y2.csproj.CoreCompileInputs.cache
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\obj\Debug\lab11y2.exe
+E:\Руслан\Учеба\Програмування\2 год\lab11y2\lab11y2\obj\Debug\lab11y2.pdb
